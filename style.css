@@ -12,9 +12,12 @@ body {
 
     background-image: url(./360_F_439133763_FrLdhZsd5aGC23r9ATARuKJBr8ifZjIe.jpg);
     background-size: 1450px;
-    width: 200px;
-    height: 200px;
-
+    width: 100%;
+    height: 100%; 
+    
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
