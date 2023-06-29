@@ -9,8 +9,9 @@
 }
 
 body {
-
-    background: linear-gradient(135deg , #153677 , #4e085f);
+    background-image: url("quiz_app_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%; 
 }
