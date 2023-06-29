@@ -46,12 +46,12 @@ body {
 .start_btn button {
     font-size: 25px;
     font-weight: 500;
-    color: #0f0c0d;
+    color: #fff;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background: rgb(215, 250, 18);
+    background: navy;
     cursor: pointer;
 }
 
