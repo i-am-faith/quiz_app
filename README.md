@@ -1,7 +1,7 @@
 # Quiz App
 
 ## Site Preview
-![Site Preview](quiz_readme.png)
+![Site Preview](Images/site_quiz.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
